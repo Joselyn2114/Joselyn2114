@@ -12,14 +12,12 @@
 <br>
 
 <!--About me-->
-## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me </div>
+## <div align="left"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me </div>
 
 <br>As a Computer Engineering student at the Instituto Tecnológico de Costa Rica, I am driven by the desire to acquire new knowledge and continually improve myself. I am attracted to challenges that require creativity and teamwork, which allows me to improve my personal relationships. I am always looking for opportunities to learn about innovative technologies and growing areas.<br>
 
 <!--Skills-->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-<h2 align="center">Skills & Technologies <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"></h2>
 
 <div align="center">
     <!-- Python -->
