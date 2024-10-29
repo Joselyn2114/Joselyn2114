@@ -12,7 +12,6 @@
 <br>
 
 <!--About me-->
-<!--About me-->
 ## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me </div>
 
 <div align="center" style="background: linear-gradient(135deg, #6e8eff, #2ab0ff); border-radius: 50%; width: 150px; height: 150px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
