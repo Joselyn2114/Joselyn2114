@@ -18,69 +18,96 @@
 
 <!--Skills-->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=java&sort=">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=javascript&sort=">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=react&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=cpp&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=c&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=html5&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=kotlin&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=postgresql&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=oracle&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=mongodb&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=docker&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=postman&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=markdown&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/markdown.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=bootstrap&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=nodejs&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=github&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=figma&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=canva&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/canva.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=elk&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elk.svg">
-</a>
-<a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=kibana&sort=">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kibana.svg">
-</a>
+
+<h2 align="center">Skills & Technologies <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"></h2>
+
+<div align="center">
+    <!-- Python -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=python">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+    <!-- Java -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=java">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    </a>
+    <!-- JavaScript -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=javascript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </a>
+    <!-- React -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=react">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </a>
+    <!-- C++ -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=cpp">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    </a>
+    <!-- C -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=c">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    </a>
+    <!-- HTML5 -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=html">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <!-- Kotlin -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=kotlin">
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </a>
+    <!-- PostgreSQL -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=postgresql">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <!-- Oracle SQL -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=oracle">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=mongodb">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </a>
+    <!-- Docker -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=docker">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <!-- Postman -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=postman">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </a>
+    <!-- Markdown -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=markdown">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    </a>
+    <!-- Bootstrap -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=bootstrap">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </a>
+    <!-- Node.js -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=nodejs">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a>
+    <!-- GitHub -->
+    <a href="https://github.com/tuusuario">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <!-- Figma -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=figma">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </a>
+    <!-- Canva -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=canva">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    </a>
+    <!-- ELK Stack -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=elk">
+        <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+    </a>
+    <!-- Kibana -->
+    <a href="https://github.com/tuusuario?tab=repositories&q=&type=&language=kibana">
+        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+    </a>
+</div>
+
 
 
 <!--Connect with me-->
