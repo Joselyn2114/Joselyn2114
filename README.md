@@ -12,7 +12,12 @@
 <br>
 
 <!--About me-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!--About me-->
+## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me </div>
+
+<div align="center" style="background: linear-gradient(135deg, #6e8eff, #2ab0ff); border-radius: 50%; width: 150px; height: 150px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+    <h1 style="color: white; font-size: 20px; margin: 0;">About Me</h1>
+</div>
 
 <br>As a Computer Engineering student at the Instituto Tecnológico de Costa Rica, I am driven by the desire to acquire new knowledge and continually improve myself. I am attracted to challenges that require creativity and teamwork, which allows me to improve my personal relationships. I am always looking for opportunities to learn about innovative technologies and growing areas.<br>
 
